@@ -52,5 +52,6 @@ public class App {
 
         }
         menu.close();
+        System.out.println("Programa Finalizado");
     }
 }
